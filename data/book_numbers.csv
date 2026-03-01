@@ -1,0 +1,14 @@
+Metric,Value,Unit,Description,Source
+Dunkelflaute_Energy_Gap,15.6,TWh,Cumulative energy gap during 10-day Dunkelflaute,Figure 6.1
+Storage_Limit_2026,0.07,TWh,Physical storage capacity in 2026,Figure 6.1
+Redispatch_Cost_2025,3.1,€ Billion,Manual redispatch costs in 2025,Section 6.5
+Redispatch_Shadow_Cost_2025,6.3,€ Billion,Total cost including stabilization and curtailment,Section 6.5
+Protocol_Efficiency_Target,0.70,Ratio,Projected Autonomous Balancing Efficiency (eta_AB) by 2030,Section 6.5.1
+Kraftwerksstrategie_H2_Capacity,12,GW,Tendered H2-ready gas plant capacity (Feb 2026),Section 6.6
+Virtual_Storage_Reduction,0.65,Ratio,Reduction in physical backup via MCP flexibility (60-70% range),Figure 6.1
+Installed_VRE_Capacity,200,GW,Installed wind and solar capacity in 2024-2025,Chapter 6 Intro
+Dunkelflaute_Output_Floor,10,GW,Minimum output during Dunkelflaute event,Chapter 6 Intro
+Dunkelflaute_Duration_Stress,10,Days,Standard stress test duration for energy gap calculation,Figure 6.1
+Protocol_Dividend_Efficiency,0.16,Ratio,Efficiency gain via Agentic Heat-Integration in H2 loop,Figure 7.2
+Legacy_H2_Efficiency,0.33,Ratio,Efficiency of legacy H2 loop,Figure 7.1
+MCP_H2_Efficiency,0.52,Ratio,Efficiency of MCP-optimized H2 loop,Figure 7.1
