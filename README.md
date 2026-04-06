@@ -7,8 +7,6 @@
 
 This repository is the **official computational companion** to Chapter 6 of Vincenzo Grimaldi’s *The Renewables Migration*.
 
-The 03:17 narrative thread continues here. Every preceding chapter’s infrastructure foundation — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, and solar subsidies — now converges on Germany’s longest dark-calm periods. The protocol turns the void into virtual storage, making redispatch obsolete. This production-ready codebase delivers verifiable Dunkelflaute gap models, autonomous balancing efficiency (η_AB), redispatch elimination, Kraftwerksstrategie integration, and the 2030 Sovereign Resilience verdict for developers and system integrators to embed MCP intelligence into live grid-balancing architectures.
-
 ---
 
 ## Quick Start — Verify Sovereign Resilience in < 60 Seconds
@@ -129,13 +127,6 @@ Renewables_Migration_Chapter6_Proof_Engine/
 | **Book Data Export**             | 6.4             | One-click CSV matching Appendix A |
 
 ---
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and full MCP virtual storage at the system level. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic weather data with real 50Hertz or TenneT telemetry.
-
-This is the **executable shield** that proves the book’s blueprint has already turned nature’s veto into routine.
-
 ---
 
 **Part of The Renewables Migration Technical Ecosystem**  
